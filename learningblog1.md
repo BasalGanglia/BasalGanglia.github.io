@@ -1,5 +1,5 @@
 layout: page
-title: "PAGE TITLE"
+title: "learning suff"
 permalink: /learning/
 
 testing this stuff.
