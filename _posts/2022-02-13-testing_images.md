@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Daily Journal. Lazy Sunday
+title: First Journal Entry! 
 author: User
-summary: Studying Jekyll and github pages to set this up
+summary: Daily Journal. Lazy Sunday Studying Jekyll and github pages to set this up
 ---
+
+
 # Trust over IP
 https://trustoverip.org/
 
