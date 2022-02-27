@@ -1,5 +1,8 @@
 ---
 permalink: /k8/
+sidebar:
+  title: "Sample Title"
+  nav: sidebar-sample
 ---
 
 # K8 studies start ! 
