@@ -44,11 +44,9 @@ output from flux:
 
 ![](../assets/images/2022-04-15-influx_db_explorations/2022-04-15-14-18-54.png)
 
-Points: 
+![](../assets/images/2022-04-15-influx_db_explorations/2022-04-15-14-20-52.png)
 
+Points:
 
-
-![](../assets/images/2022-04-15-influx_db_explorations/2022-04-15-14-20-52.png)!
-
-[](../assets/images/2022-04-15-influx_db_explorations/2022-04-15-14-23-48.png)
+![definition of points](../assets/images/2022-04-15-influx_db_explorations/2022-04-15-14-23-48.png)
 
