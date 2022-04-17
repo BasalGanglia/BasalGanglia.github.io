@@ -24,8 +24,19 @@ summary: Keeping track of the multitude of stuff to learn
    * My Centos 8 had reserved 99% of disk to /home, but docker images were stored in /var, so to change that i need to do following ![](../assets/images/2022-04-17-EasterSundayLearnings/2022-04-17-12-01-37.png)
 ## Mlrun sidetrack...
 ![](../assets/images/2022-04-17-EasterSundayLearnings/2022-04-17-12-43-29.png)
+
+MLrun looks amazing!
+
+## Yet another lecture on topic by Iguazio this time : MLOps NYC: Building a Real-Time ML Pipeline with a Feature Store
+
+<https://www.youtube.com/watch?v=OgSSihuq_LA>
+
+![](../assets/images/2022-04-17-EasterSundayLearnings/2022-04-17-15-52-35.png)
+
+![](../assets/images/2022-04-17-EasterSundayLearnings/2022-04-17-16-04-13.png)
+nice list of technologies to master:
+![](../assets/images/2022-04-17-EasterSundayLearnings/2022-04-17-16-06-34.png)
 1. 
 2. 
-3. 
 
 
