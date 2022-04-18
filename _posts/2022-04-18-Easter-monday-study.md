@@ -27,9 +27,20 @@ so now my WSL looks like this:
 
 not entirely sure if its optimal and why the hell did I go to this rabbit hole again ;)
 
+# Random testings: 
+## Code block
+
 ```python
 def function(x):
     return x
 ```
+What about shell
+```shell
+sudo ip netns add red
+sudo ip netns add blue
+sudo su
+ip link add veth-red type veth peer name veth-blue
+```
+
 
 
