@@ -27,5 +27,9 @@ so now my WSL looks like this:
 
 not entirely sure if its optimal and why the hell did I go to this rabbit hole again ;)
 
+```python
+def function(x):
+    return x
+```
 
 
