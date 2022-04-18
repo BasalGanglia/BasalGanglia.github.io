@@ -35,12 +35,20 @@ def function(x):
     return x
 ```
 What about shell
-```shell
-sudo ip netns add red
-sudo ip netns add blue
+```bash
 sudo su
+ip netns add red
+ip netns add blue
 ip link add veth-red type veth peer name veth-blue
+ip link set veth-red netns red
+ip link set veth-blue netns blue
 ```
+![](../assets/images/2022-04-18-Easter-monday-study/2022-04-18-12-27-03.png)
 
 
-
+```bash
+ip -n red addr add 192.168.15.1 dev veth-red
+ip -n blue addr add 192.168.15.2 dev veth-blue
+ip -n red link set veth-red up
+ip -n blue link set veth-blue up
+```
