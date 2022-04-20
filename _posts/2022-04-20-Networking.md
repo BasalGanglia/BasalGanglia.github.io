@@ -16,3 +16,5 @@ There is a nice "stack" of lectures on Linux networking, all seemingly based on 
 
 ## Open switch
 <https://www.youtube.com/watch?v=rYW7kQRyUvA>
+
+# Testing from another laptop
