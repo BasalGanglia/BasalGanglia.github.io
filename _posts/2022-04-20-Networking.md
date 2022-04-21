@@ -18,3 +18,6 @@ There is a nice "stack" of lectures on Linux networking, all seemingly based on 
 <https://www.youtube.com/watch?v=rYW7kQRyUvA>
 
 # Testing from another laptop
+
+## Trying to link internally
+[vi time!](../_pages/vi.md)
