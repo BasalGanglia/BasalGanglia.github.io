@@ -14,3 +14,5 @@ I've been struggling with myself whether to spent time learning Vim which seems 
 
 I'm currently using the fantastic CloudAcademy Vim Masterclass as well as the Coding Fu with VSCode as my learning material.
 
+Rest of the Vi explorations to be made in the dedicated Vi page: 
+[vi time!](../_pages/vi.md)
