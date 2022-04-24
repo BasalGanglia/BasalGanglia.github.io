@@ -16,3 +16,6 @@ G # go to bottom
 
 ```
 ![](../assets/images/vi/2022-04-23-10-41-29.png)
+
+![](../assets/images/vi/2022-04-23-10-46-42.png)
+![](../assets/images/vi/2022-04-23-10-47-22.png)
