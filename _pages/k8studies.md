@@ -1,5 +1,5 @@
 ---
-permalink: /k8/
+permalink: /k8s/
 sidebar:
   nav: "docs"
 ---

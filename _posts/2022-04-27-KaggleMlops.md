@@ -14,3 +14,8 @@ I believe best way to learn is by doing (ok, perhaps its the *second* best way: 
 Udacity Azure DevOps nanodegree has a nice architecture from which I'll take what I find useful:
 
 ![](../assets/images/2022-04-27-KaggleMlops/2022-04-27-11-49-54.png)
+
+### Side note again: playing around Jekyll, still trying to learn how this whole thing works...
+![](../assets/images/2022-04-27-KaggleMlops/2022-04-27-17-14-37.png)
+
+fantastic youtube series on Jekyll here: https://www.youtube.com/watch?v=CLCaJJ1zUHU
