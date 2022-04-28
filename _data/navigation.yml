@@ -12,4 +12,6 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-
+pages:
+  - title: "Kubernetes Study Journal"
+    url: /k8s/

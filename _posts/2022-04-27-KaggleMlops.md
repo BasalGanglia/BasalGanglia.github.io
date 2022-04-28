@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: archive
 title: Combining all hype technologies for facilitating Kaggle competition
 author: User
 summary: Ultimate Learning Experiment

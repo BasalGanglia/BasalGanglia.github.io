@@ -280,19 +280,13 @@ docs:
         url: /docs/quick-start-guide/
       - title: "Structure"
         url: /docs/structure/
-sidebar:
-  - title: "Title"
-    image: http://placehold.it/350x250
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
+
 # Defaults
 defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      #type: posts
     values:
       layout: single
       author_profile: true
@@ -300,3 +294,12 @@ defaults:
       comments: # true
       share: true
       related: true
+      sidebar:
+        nav: pages 
+        # - title: "K8s Studies" 
+        #   image: http://placehold.it/350x250
+        #   image_alt: "image"
+        #   text: "Some text here."
+        #   url: 
+        # - title: "Another Title"
+        #   text: "More text here."
