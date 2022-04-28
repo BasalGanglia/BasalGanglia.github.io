@@ -15,3 +15,16 @@ main:
 pages:
   - title: "Kubernetes Study Journal"
     url: /k8s/
+  - title: "Git Notes" 
+    url: /git/ 
+  - title: "Vim explorations"
+    url: /vi/
+  - title: "Personal MLOps Platform Plans" 
+    url: /k8s/
+  - title: "Misc"
+    url: /k8s/
+
+
+
+
+

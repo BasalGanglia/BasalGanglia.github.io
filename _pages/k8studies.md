@@ -1,7 +1,7 @@
 ---
 permalink: /k8s/
 sidebar:
-  nav: "docs"
+  nav: "pages"
 ---
 
 # K8 studies start ! 

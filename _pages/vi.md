@@ -1,3 +1,9 @@
+---
+permalink: /vi/
+#sidebar:
+#  nav: "pages"
+---
+
 # This is my Vi learning journey
 ![](../assets/images/vi/2022-04-20-19-06-25.png)
 
