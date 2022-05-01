@@ -28,3 +28,8 @@ summary: Summary of the article
 ![](../assets/images/2022-04-30-Flux%20language/2022-04-30-12-23-55.png)
 
 ![](../assets/images/2022-04-30-Flux%20language/2022-04-30-12-24-08.png)
+
+# Watching a five part "complete guide to InfluxDB 2
+
+https://www.youtube.com/watch?v=dIG8t67JcIY
+
